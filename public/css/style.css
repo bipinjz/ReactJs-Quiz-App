@@ -1,0 +1,26 @@
+.navbar{
+    background:#A22F36;
+    color:#fff;
+    border:0px;
+
+    
+}
+.jumbotron{
+    background:#DE873A;
+    color:#fff;
+}
+.navbar-brand{
+    color:#fff!important;
+}
+.well{
+    background: #F7DDA0;
+    border:0px;
+}
+.list-group-item{
+    border:0px;
+}
+.btn-primary, .btn:active, .btn:hover, .btn:focus, .btn.disabled {
+    background:#A22F36!important;
+    border:0px;
+
+}
